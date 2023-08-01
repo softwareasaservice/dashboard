@@ -1,7 +1,7 @@
 {
   "name": "@softwareasaservice/dashboard",
-  "version": "0.0.1",
-  "description": "Create a dashboard for your SaaS in under a minute",
+  "version": "0.0.2",
+  "description": "Create a dashboard for your SaaS in under a minute, from @importsaas",
   "author": "@importsaas",
   "license": "MIT",
   "repository": "@softwareasaservice/dashboard",
@@ -49,5 +49,13 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "react-router-dom",
+    "saas",
+    "boilerplate",
+    "dashboard",
+    "importsaas"
   ]
 }
